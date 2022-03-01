@@ -4,18 +4,16 @@
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
-  <a href="https://t.me/CodeXBotz">
-    <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
   </a><br>
   <a href="https://t.me/TeluguDubbedHorrorMovies2">
-    &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
+    &nbsp;<img src="https://img.shields.io/badge/Dead%20%F0%9D%95%8F%20Pool-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <a href="https://t.me/suryaprabhas1245">
-    &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
+    &nbsp;<img src="https://img.shields.io/badge/Dead%20%F0%9D%95%8F%20Pool-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <br>
   <a href="https://github.com/suryaprabhas1245/File-Sharing-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/CodeXBotz/File-Sharing-Bot?style=social">
+    <img src="https://img.shields.io/github/stars/suryaprabhas1245/File-Sharing-Bot?style=social">
   </a>
   <a href="https://github.com/suryaprabhas1245/File-Sharing-Bot/fork">
     <img src="https://img.shields.io/github/forks/suryaprabhas1245/File-Sharing-Bot?label=Fork&style=social">
@@ -28,7 +26,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@codexbotzsupport ](https://www.telegram.dog/codexbotzsupport)**
+**If you need any more modes in repo or If you find out any bugs, report them to [Surya Prabhas](https://www.telegram.dog/suryaprabhas1245)**
 
 ### Features
 - Fully customisable.
